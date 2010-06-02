@@ -1,0 +1,35 @@
+#entities definitions
+entity player
+entity emerald
+entity sapphire
+entity grass
+entity steel
+entity brick
+entity wood
+entity exit
+entity boulder
+entity flintstone
+entity door_red
+entity door_blue
+entity door_yellow
+entity door_green
+entity key_red
+entity key_blue
+entity key_yellow
+entity key_green
+entity peperon
+
+
+#entity states definitions
+state emerald falling
+state emerald disappearing
+state player dying
+state player move_right
+state player move_left
+state player move_up
+state player move_down
+
+state peperon move_right
+state peperon move_left
+state peperon move_up
+state peperon move_down
